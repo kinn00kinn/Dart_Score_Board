@@ -29,7 +29,7 @@
 ## 実行方法
 1. リポジトリをクローンします
 ```
-git clone https://github.com/your_username/Dart_Score_Board.git
+git clone https://github.com/kinn00kinn/Dart_Score_Board.git
 cd Dart_Score_Board
 ```
 
